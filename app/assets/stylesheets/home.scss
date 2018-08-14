@@ -1,0 +1,158 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.kpu-wrap
+{
+  width :1000px;//wrap 내용이 찰 수록 높이 자동적으로 할당됨 (height 명시안함)
+  margin: 20px auto 0;
+  //background-color : #cfcfcf; //연한 회색
+
+  .kpu-header
+  {
+    width :100%;
+    height:80px;
+    background : url(images/kpu_01.gif) no-repeat; //aset pipeline이 관래해서 ""형식 x
+  }
+
+  .kpu-section {
+    width: 100%;
+    height: 732px;
+    background: url(images/bodyBackground.jpg) repeat-y;
+
+    .kpu-article-left {
+      margin-top: 20px;
+      width: 143px;
+      height: 712px; //혹은 732px inherit:바로 위의 꺼만 바뀐다.
+      float: left;
+      background : url(images/kpu_04.gif);
+    }
+
+    .kpu-section-middle {
+      margin-top: 20px;
+      margin-left: 10px;
+      width: 620px;
+      height: 530px;
+      float: left;
+      //background-color: #f3f500;
+    }
+
+    .kpu-article-right {
+      float: right;
+      margin-top: 20px;
+      width: 210px;
+      height: 530px;
+      background : url(images/kpu_08.gif) no-repeat;
+
+    }
+
+    .kpu-section-bottom
+    {
+      float: left;
+      margin-left:10px;
+      width: 830px;
+      height: 182px;
+      //background-color:greenyellow;
+    }
+
+  } //kpu-section end
+
+  .kpu-footer
+  {
+    width:inherit;
+    height:140px;
+    background:url(images/kpu_24.png) no-repeat;
+  }
+
+} //kpu-wrap end
+
+
+
+
+
+
+
+.kpu-section-middle
+{
+  .middle-article-top
+  {
+    width: inherit;
+    height: 300px;
+    background:url(images/kpu_06.gif) no-repeat;
+  }
+
+  .middle-section-down
+  {
+    margin-top:10px;
+    width:inherit;
+    height:220px;
+    //background-color: beige;
+
+    .down-article-left
+    {
+      float:left;
+      width:400px;
+      height:inherit;
+      background:url(images/kpu_10.gif) no-repeat;
+    }
+
+    .down-article-right
+    {
+      float:right;
+      width:210px;
+      height:inherit;
+      background:url(images/kpu_12.gif) no-repeat;
+    }
+
+  }
+
+
+}
+
+
+
+
+
+
+.kpu-section-bottom
+{
+  .section-bottom-article{
+    float:left;
+    height:170px;
+    margin-right:15px;
+    margin-top:5px;
+
+  }
+  .section-bottom-article:nth-of-type(1) //index가 1부터시작한다 3개값중 첫번째 선택
+  {
+    width:205px;
+    background:url(images/kpu_16.gif) no-repeat;
+    margin-left:5px;
+  }
+
+  .section-bottom-article:nth-of-type(2)
+  {
+    width:380px;
+    background:url(images/kpu_18.gif) no-repeat;
+  }
+
+  .section-bottom-article:nth-of-type(3)
+  {
+    width:205px;
+    background:url(images/kpu_19.gif) no-repeat;
+    margin-right:0;
+  }
+}
+
+/*
+    // float 해제
+    .down-article-right::after
+    {
+      content:'';
+      display:block;
+      clear:both;
+    }
+*/
+
+
+
