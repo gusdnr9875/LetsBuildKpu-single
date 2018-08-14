@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca24b92d-3ffa-4c7a-bb75-f8426222ceaf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/sub_first.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/sub_first.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/sub_first_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/sub_first_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/controllers/sub_first_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -66,8 +72,8 @@
           <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-263">
-                  <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+                <state relative-caret-position="212">
+                  <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
                 </state>
               </provider>
             </entry>
@@ -107,7 +113,7 @@
             <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="228">
-                  <caret line="107" column="2" selection-start-line="107" selection-start-column="2" selection-end-line="107" selection-end-column="2" />
+                  <caret line="107" selection-start-line="107" selection-end-line="107" />
                 </state>
               </provider>
             </entry>
@@ -312,7 +318,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26501000" />
+    <option name="totallyTimeSpent" value="27078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="697" extended-state="6" />
@@ -703,17 +709,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-263">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="107" column="2" selection-start-line="107" selection-start-column="2" selection-end-line="107" selection-end-column="2" />
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
