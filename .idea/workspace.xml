@@ -4,11 +4,7 @@
     <bookmark url="file://C:/force/app/views/homes/mainpage2.html.erb" line="37" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca24b92d-3ffa-4c7a-bb75-f8426222ceaf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/default/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/default/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/commons/_kpu_footer.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/commons/_kpu_footer.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/commons/_kpu_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/commons/_kpu_header.html.erb" afterDir="false" />
-    </list>
+    <list default="true" id="ca24b92d-3ffa-4c7a-bb75-f8426222ceaf" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -171,68 +167,6 @@
               <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
               <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -355,16 +289,15 @@
       <workItem from="1534148721120" duration="3366000" />
       <workItem from="1534153150922" duration="6475000" />
       <workItem from="1534225638702" duration="3561000" />
-      <workItem from="1534240966434" duration="3321000" />
+      <workItem from="1534240966434" duration="4103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24868000" />
+    <option name="totallyTimeSpent" value="25650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="697" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
       <window_info anchor="bottom" id="TODO" order="6" />
