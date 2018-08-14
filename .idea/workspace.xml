@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca24b92d-3ffa-4c7a-bb75-f8426222ceaf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/sub_first.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/sub_first.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/sub_first_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/sub_first_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/sub_first_controller_test.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -318,7 +312,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27078000" />
+    <option name="totallyTimeSpent" value="27578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="697" extended-state="6" />
